@@ -1,0 +1,100 @@
+/* ========== common CSS start here ========  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primaryColor: #fff;
+    --secondaryColor: #fff;
+    --peraFontSize: 18px;
+    --headingFonSize: 25px;
+    --primaryFont: Arial, sans-serif;
+    --secondFont: Arial, sans-serif;
+    --fontW400:400;
+    --fontW500:500;
+    --fontW600:600;
+    --fontW600:600;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6, p{
+    line-height: 0.8;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.section__heading__main{
+
+}
+.section__heading{
+
+}
+.section__title{
+
+}
+.btn__primary{
+
+}
+.btn__secondary{
+
+}
+/* ========== common CSS end here ========  */
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
+/* ========== navbar section start here ========  */
+
+/* ========== navbar section end here ========  */
+
+
